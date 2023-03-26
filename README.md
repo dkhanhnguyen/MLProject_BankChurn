@@ -11,7 +11,7 @@ The dataset can be accessed on Kaggle at: Churn_Modelling.csv | Kaggle
 Dataset Description
 The dataset contains 10,000 entries and includes the following information:
 
-•	_RowNumber_: a unique identifier for each entry
+•	RowNumber: a unique identifier for each entry
 
 •	CustomerId: the ID of the customer, which is also a unique identifier for each entre
 
